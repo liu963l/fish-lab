@@ -264,7 +264,8 @@ plugins_js  = []
   branch = "main"
   #local_backend = true
   publish_mode = "editorial_workflow"
-  local_backend = true
+  #local_backend = true
+  netlify_cms = true
 ############################
 ## Icon Pack Extensions
 ############################
